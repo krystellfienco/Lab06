@@ -8,6 +8,8 @@ public class sciCalculator {
 
         //all the variables used are below
 
+        //THIS IS THE COMMENT TO DOCUMENT THE CHANGE FOR GITHUB
+
         int optChoice = 0, rounds;
         double exp, log, intVal, totalVal, avg, add, sub, div, mult;
         double firstNum = 0, secNum = 0;
